@@ -1,14 +1,12 @@
-
 // Predict and explain first BEFORE you run any code...
 
 // this function should square any number but instead we're going to get an error
 
 // =============> ANSWER: in the  definition a function, is not enter values, but parameters.
-// num is used, but it is not defined. 
-
+// num is used, but it is not defined.
 
 //function square(3) {
- //   return num * num;}
+//   return num * num;}
 
 // =============> write the error message here
 //ANSWER: Uncaught SyntaxError: Unexpected number
@@ -21,7 +19,7 @@
 // =============> write your new code here
 
 function square(num) {
-    return num * num;
+  return num * num;
 }
 
-console.log(square(3)); // should output 9
+console.log(square(3)); // should output 9.
