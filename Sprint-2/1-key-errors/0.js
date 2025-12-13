@@ -15,3 +15,6 @@ function capitalise(str1) {
   return result;
 }
 console.log(capitalise("laura")); // Output: "Laura"
+
+//.
+
