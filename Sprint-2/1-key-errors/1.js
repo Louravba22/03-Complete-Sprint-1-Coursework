@@ -24,3 +24,5 @@ function convertToPercentage(decimalNumber) {
 }
 
 console.log(convertToPercentage(0.5)); // Output: "50%"
+
+//.
