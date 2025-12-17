@@ -33,3 +33,6 @@ function convertToUpperSnakeCase(str) {
 let textExample = "this is an example for the case";
 let result = convertToUpperSnakeCase(textExample);
 console.log(result);
+
+
+//ok. 
