@@ -25,3 +25,5 @@ const weight = 54;
 const height = 1.6;
 
 console.log(calculateBMI(weight, height));
+
+//ok.
