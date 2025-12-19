@@ -7,3 +7,6 @@ count = count + 1;
 
 
 ANSWER// The variable count is adding 1 to its current value, so it gives it a new value. 
+
+
+//.
