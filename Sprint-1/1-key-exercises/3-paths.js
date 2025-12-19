@@ -25,7 +25,7 @@ const lastDotIndex = filePath.lastIndexOf(".");
 const ext = filePath.slice(lastDotIndex);
 console.log(`The ext part of ${filePath} is ${ext}`);
 
-
+//.
 
 
 
