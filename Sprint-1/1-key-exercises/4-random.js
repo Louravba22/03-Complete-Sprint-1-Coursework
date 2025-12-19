@@ -18,3 +18,6 @@ console.log(num);
 
 // It will help to think about the order in which expressions are evaluated
 // Try logging the value of num and running the program several times to build an idea of what the program is doing. DONE
+
+
+//.
