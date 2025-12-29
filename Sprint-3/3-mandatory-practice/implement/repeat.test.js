@@ -49,7 +49,3 @@ test("should throw an error when count is negative", () => {
 });
 
 //ok
-
-console.log(repeat(0));
-console.log(repeat(1));
-console.log(repeat(2));
