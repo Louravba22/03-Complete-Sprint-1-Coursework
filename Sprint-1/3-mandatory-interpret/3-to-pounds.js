@@ -24,3 +24,6 @@ console.log(`£${pounds}.${pence}`); //Use template strings to construct the fin
 // Try and describe the purpose / rationale behind each step
 
 // Answer: in each line 
+
+
+//.

@@ -19,3 +19,6 @@ What does the syntax `console.log` or `console.assert` mean? In particular, what
 💡 ANSWER: console → an object
 💡 .log or .assert → a method (function) within that object
 💡 `.`= The dot is the property access operator in JavaScript.
+
+
+//.

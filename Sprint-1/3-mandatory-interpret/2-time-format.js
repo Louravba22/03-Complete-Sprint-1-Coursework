@@ -31,3 +31,4 @@ console.log(result);
 // f) Try experimenting with different values of movieLength. Will this code work for all values of movieLength? Explain your answer
 //ANSWER: Won`t work for all values, like for negative numbers or non-integer values (decimals).
 
+//.
